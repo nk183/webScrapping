@@ -8,9 +8,9 @@ from email import encoders
 
 def main(email_send='varun.er13.6@gmail.com',filename='smile_baby.zip'):
 	
-	email_user='varun.er13.6@gmail.com'
+	email_user='*********@gmail.com'
 
-	email_password='kargil#18'
+	email_password='********'
 	
 	subject = 'python'
 
